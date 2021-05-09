@@ -1,4 +1,4 @@
-function list(names){
+function list(names) {
   let formattedNames = [];
   names.forEach((name, index) => {
     if (index === 0) {
